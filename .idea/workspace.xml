@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d327a5e9-6ac4-4b3d-b4eb-0bd9bc91d814" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTTP Request" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="68380ba9-c3c6-47e0-8f69-a5625c6527bc" />
+  <component name="ProjectId" id="21C4IumOBTOtYHuKKZUyb8QtKcu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d327a5e9-6ac4-4b3d-b4eb-0bd9bc91d814" name="Default Changelist" comment="" />
+      <created>1637431659093</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637431659093</updated>
+      <workItem from="1637431660117" duration="780000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="74" y="339" key="#SQL_Dialects" timestamp="1637432257303">
+      <screen x="0" y="23" width="1792" height="1043" />
+    </state>
+    <state x="74" y="339" key="#SQL_Dialects/-2560.23.2560.1417/0.23.1792.1043@0.23.1792.1043" timestamp="1637432257303" />
+    <state x="496" y="204" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1637432476933">
+      <screen x="0" y="23" width="1792" height="1043" />
+    </state>
+    <state x="496" y="204" key="#com.intellij.execution.impl.EditConfigurationsDialog/-2560.23.2560.1417/0.23.1792.1043@0.23.1792.1043" timestamp="1637432476933" />
+    <state x="556" y="331" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1637431976606">
+      <screen x="0" y="23" width="1792" height="1043" />
+    </state>
+    <state x="556" y="331" key="#com.intellij.fileTypes.FileTypeChooser/-2560.23.2560.1417/0.23.1792.1043@0.23.1792.1043" timestamp="1637431976606" />
+    <state x="630" y="249" key="FileChooserDialogImpl" timestamp="1637431701974">
+      <screen x="0" y="23" width="1792" height="1043" />
+    </state>
+    <state x="630" y="249" key="FileChooserDialogImpl/-2560.23.2560.1417/0.23.1792.1043@0.23.1792.1043" timestamp="1637431701974" />
+    <state x="288" y="96" key="SettingsEditor" timestamp="1637431705314">
+      <screen x="0" y="23" width="1792" height="1043" />
+    </state>
+    <state x="288" y="96" key="SettingsEditor/-2560.23.2560.1417/0.23.1792.1043@0.23.1792.1043" timestamp="1637431705314" />
+  </component>
+</project>
